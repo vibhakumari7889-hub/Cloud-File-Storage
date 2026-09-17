@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/files";
+const API_URL = "/api/files";
 
 const fileInput = document.getElementById("fileInput");
 const uploadBtn = document.getElementById("uploadBtn");
